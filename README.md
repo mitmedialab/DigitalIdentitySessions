@@ -29,9 +29,7 @@
 
 ## Event Media and Links 
 
-* **Photos and Video Snippets**
-
-* [https://github.com/mitmedialab/DigitalIdentitySessions/tree/master/2017-July-24/Media](https://github.com/mitmedialab/DigitalIdentitySessions/tree/master/2017-July-24/Media)
+*  **Photos and Video Snippets**: [https://github.com/mitmedialab/DigitalIdentitySessions/tree/master/2017-July-24/Media](https://github.com/mitmedialab/DigitalIdentitySessions/tree/master/2017-July-24/Media)
 
 ### Key Event Links
 
