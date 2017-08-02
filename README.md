@@ -6,6 +6,9 @@ See Web Version via GitHub Pages at:
 **Relevant Links:**
 * The law.MIT.edu announcements page: https://law.mit.edu/blog/digital-identity-working-sessions
 * Wiki Page for notes: https://github.com/mitmedialab/DigitalIdentitySessions/wiki/Scratch-Pad
+* Eventbrite Info: https://www.eventbrite.com/e/digital-identity-working-sessions-mit-media-lab-tickets-35699219326
+
+
 
 
 # Digital Identity Sessions
